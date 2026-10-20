@@ -1,4 +1,4 @@
-# Free V2ray Clash | 10月13日19.7M/S|免费Singbox节点/V2ray节点/Shadowrocket节点/Clash节点/SSR节点节点订阅分享  更新时间 2026-10-13 09:52:04
+# Free V2ray Clash | 10月20日22.3M/S|免费V2ray节点/Singbox节点/Shadowrocket节点/Clash节点/SSR节点节点订阅分享  更新时间 2026-10-20 09:07:58
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://free-v2ray-clash.github.io" target="_blank">点击跳转</a>
 
 ## clash使用教程：
@@ -9,23 +9,23 @@
 
 ### 免费Clash节点订阅链接
 
-- https://free-v2ray-clash.github.io/uploads/2026/10/0-20261013.yaml
-- https://free-v2ray-clash.github.io/uploads/2026/10/1-20261013.yaml
-- https://free-v2ray-clash.github.io/uploads/2026/10/2-20261013.yaml
-- https://free-v2ray-clash.github.io/uploads/2026/10/3-20261013.yaml
-- https://free-v2ray-clash.github.io/uploads/2026/10/4-20261013.yaml
+- https://free-v2ray-clash.github.io/uploads/2026/10/0-20261020.yaml
+- https://free-v2ray-clash.github.io/uploads/2026/10/1-20261020.yaml
+- https://free-v2ray-clash.github.io/uploads/2026/10/2-20261020.yaml
+- https://free-v2ray-clash.github.io/uploads/2026/10/3-20261020.yaml
+- https://free-v2ray-clash.github.io/uploads/2026/10/4-20261020.yaml
 
 ### 免费V2ray节点订阅链接
 
-- https://free-v2ray-clash.github.io/uploads/2026/10/0-20261013.txt
-- https://free-v2ray-clash.github.io/uploads/2026/10/1-20261013.txt
-- https://free-v2ray-clash.github.io/uploads/2026/10/2-20261013.txt
-- https://free-v2ray-clash.github.io/uploads/2026/10/3-20261013.txt
-- https://free-v2ray-clash.github.io/uploads/2026/10/4-20261013.txt
+- https://free-v2ray-clash.github.io/uploads/2026/10/0-20261020.txt
+- https://free-v2ray-clash.github.io/uploads/2026/10/1-20261020.txt
+- https://free-v2ray-clash.github.io/uploads/2026/10/2-20261020.txt
+- https://free-v2ray-clash.github.io/uploads/2026/10/3-20261020.txt
+- https://free-v2ray-clash.github.io/uploads/2026/10/4-20261020.txt
 
 ### 免费Sing-box节点订阅链接
 
-- https://free-v2ray-clash.github.io/uploads/2026/10/20261013.json
+- https://free-v2ray-clash.github.io/uploads/2026/10/20261020.json
 
 ## 更多Clash节点订阅 ：
 
